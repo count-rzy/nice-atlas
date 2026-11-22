@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f6f3">
+  <meta name="description" content="Интерактивный атлас Европы и Азии. Исследуйте регионы, страны и их пейзажи.">
+  <title>Атлас — выбери направление</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="map-data.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="site-shell">
+    <main class="main" id="app" data-step="continent">
+      <section class="intro" aria-live="polite">
+        <div class="intro-top"><span class="section-no" id="sectionNo">01 / НАПРАВЛЕНИЕ</span><span class="intro-line"></span><span class="intro-progress" aria-hidden="true"><i></i><i></i><i></i></span></div>
+        <div class="intro-content">
+          <p class="eyebrow" id="eyebrow">ОТКРОЙ СВОЙ МАРШРУТ</p>
+          <h1 id="headline">У каждого места<br><em>своя история.</em></h1>
+          <p class="intro-description" id="introDescription">Начните с карты. Выберите континент, затем регион и страну, чтобы оказаться немного ближе к её миру.</p>
+          <div class="intro-metrics" id="introMetrics" aria-label="Содержание атласа"><span><strong id="metricContinents">02</strong>континента</span><span><strong id="metricRegions">09</strong>регионов</span><span><strong id="metricCountries">37</strong>стран</span></div>
+        </div>
+        <aside class="selection" id="selection" hidden>
+          <div class="selection-head"><span id="selectionLabel">ВЫБЕРИТЕ РЕГИОН</span><span class="selection-actions"><button class="home-button" id="homeButton" type="button" aria-label="К выбору континента">⌂</button><button class="back-button" id="backButton" type="button" aria-label="Назад">←</button></span></div>
+          <div class="selection-count" id="selectionCount"></div>
+          <div class="selection-list" id="selectionList"></div>
+          <div class="selection-foot"><span class="selection-foot-icon">⌖</span><span id="selectionFoot">ВЫБЕРИТЕ НА КАРТЕ ИЛИ В СПИСКЕ</span></div>
+        </aside>
+        <div class="intro-bottom"><span class="instruction-icon">↗</span><span id="instruction">ВЫБЕРИТЕ КОНТИНЕНТ НА КАРТЕ</span></div>
+      </section>
+
+      <section class="map-area" aria-label="Интерактивная карта">
+        <div class="map-ambient" aria-hidden="true"></div>
+        <div class="maps" id="maps"><svg class="geo-map" id="mapWorld" role="img" aria-label="Единая карта Европы и Азии с границами стран" preserveAspectRatio="xMidYMid meet"></svg></div>
+        <button class="continent-select" type="button" data-continent="europe"><span class="continent-select-small">ИССЛЕДОВАТЬ</span><span class="continent-select-name">Европу</span><span class="continent-select-arrow">↗</span></button>
+        <button class="continent-select" type="button" data-continent="asia"><span class="continent-select-small">ИССЛЕДОВАТЬ</span><span class="continent-select-name">Азию</span><span class="continent-select-arrow">↗</span></button>
+        <div class="map-overlay-top" id="mapOverlayTop" hidden><span class="map-overlay-dot"></span><span id="mapStatus">ЕВРОПА</span><span class="capital-legend" id="capitalLegend" hidden><span></span> СТОЛИЦЫ</span><span class="map-overlay-coords" id="mapCoords">48° 51′ N · 2° 21′ E</span></div>
+        <div class="map-scale" id="mapScale" hidden><span>ГРАНИЦЫ СТРАН / NATURAL EARTH</span></div>
+        <div class="map-hint" id="mapHint" hidden>Наведите на выделенную страну, чтобы увидеть регион</div>
+      </section>
+
+    </main>
+
+    <div class="detail" id="detail" hidden role="dialog" aria-modal="true" aria-labelledby="detailName">
+      <div class="detail-backdrop" id="detailBackdrop"></div>
+      <article class="detail-card">
+        <div class="detail-media" id="detailMedia"><div class="media-shade"></div><div class="media-top"><span class="media-kicker">АТЛАС / ОТКРЫВАЯ МИР</span><button class="detail-close" id="detailClose" type="button" aria-label="Закрыть карточку">✕</button></div><div class="media-caption"><span id="detailRegion"></span><h2 id="detailName"></h2><p id="detailSummary"></p></div><a class="media-photo-label" id="photoLink" target="_blank" rel="noopener noreferrer">ФОТО / WIKIMEDIA COMMONS ↗</a></div>
+        <div class="detail-content"><div class="detail-content-top"><span>СТРАНА / <span id="detailNumber">01</span></span><span class="detail-star">✳</span></div><div class="insignia"><div class="insignia-item"><span class="detail-label">ФЛАГ</span><img class="flag" id="detailFlag" alt="Флаг страны"></div><div class="insignia-item"><span class="detail-label">ГЕРБ</span><img class="coat" id="detailCoat" alt="Герб страны"><span class="coat-fallback" id="coatFallback" hidden>✦</span></div></div><div class="detail-copy"><span class="detail-label">НЕМНОГО О МЕСТЕ</span><p id="detailFact"></p></div><button class="next-country" id="nextCountry" type="button"><span>СЛЕДУЮЩАЯ СТРАНА</span><span>↗</span></button></div>
+      </article>
+    </div>
+  </div>
+</body>
+</html>

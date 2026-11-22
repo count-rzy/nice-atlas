@@ -1,0 +1,41 @@
+# Фотографии
+
+Фотографии получены из Wikimedia Commons. У каждого файла есть своя лицензия и автор; данные приведены ниже.
+
+- **georgia.jpg** — [The Greater Caucasus Mountains in Georgia.jpg](https://commons.wikimedia.org/wiki/File:The_Greater_Caucasus_Mountains_in_Georgia.jpg); автор: dare from tbilisi, Georgia; лицензия: CC BY-SA 2.0.
+- **armenia.jpg** — [Khor Virap Monastery and Mount Ararat, Armenia.jpg](https://commons.wikimedia.org/wiki/File:Khor_Virap_Monastery_and_Mount_Ararat,_Armenia.jpg); автор: Andrew Behesnilian (MrAndrew47); лицензия: CC BY-SA 3.0.
+- **azerbaijan.jpg** — [Baku banner Old City panorama.jpg](https://commons.wikimedia.org/wiki/File:Baku_banner_Old_City_panorama.jpg); автор: AlixSaz; лицензия: CC BY-SA 4.0.
+- **spain.jpg** — [Alhambra evening panorama Mirador San Nicolas sRGB-1.jpg](https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg); автор: Slaunger; лицензия: CC BY-SA 3.0.
+- **portugal.jpg** — [Panorama with Nossa Senhora da Penha de França Convent at sunrise, Lisbon, Portugal julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Panorama_with_Nossa_Senhora_da_Penha_de_Fran%C3%A7a_Convent_at_sunrise,_Lisbon,_Portugal_julesvernex2.jpg); автор: Jules Verne Times Two; лицензия: CC BY-SA 4.0.
+- **andorra.jpg** — [Andorra2008.JPG](https://commons.wikimedia.org/wiki/File:Andorra2008.JPG); автор: Bromr; лицензия: CC BY-SA 3.0.
+- **france.jpg** — [Panorama of Paris city from Montmartre.jpg](https://commons.wikimedia.org/wiki/File:Panorama_of_Paris_city_from_Montmartre.jpg); автор: iMahesh; лицензия: CC BY-SA 4.0.
+- **switzerland.jpg** — [Landscape Arnisee-region.JPG](https://commons.wikimedia.org/wiki/File:Landscape_Arnisee-region.JPG); автор: Simon Koopmann; лицензия: CC BY-SA 2.5.
+- **italy.jpg** — [Amalfi Coast, Italy Panoramic.jpg](https://commons.wikimedia.org/wiki/File:Amalfi_Coast,_Italy_Panoramic.jpg); автор: Mайкл Гиммельфарб; лицензия: CC BY-SA 4.0.
+- **germany.jpg** — [Neuschwanstein Castle 2024-02.jpg](https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg); автор: Wilfredor; лицензия: CC0.
+- **poland.jpg** — [Winter in Tatry Mountains - Poland.jpg](https://commons.wikimedia.org/wiki/File:Winter_in_Tatry_Mountains_-_Poland.jpg); автор: Radek Kucharski; лицензия: CC BY 4.0.
+- **ukraine.jpg** — [Морозний ранок над Яремчею.jpg](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BD%D0%B8%D0%B9_%D1%80%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D0%B5%D1%8E.jpg); автор: Vitalii Bashkatov; лицензия: CC BY-SA 4.0.
+- **moldova.jpg** — [Orhei Vechi 08.JPG](https://commons.wikimedia.org/wiki/File:Orhei_Vechi_08.JPG); автор: Julian Nyča; лицензия: CC BY-SA 4.0.
+- **slovakia.jpg** — [Strbske Pleso - Mountains 2.jpg](https://commons.wikimedia.org/wiki/File:Strbske_Pleso_-_Mountains_2.jpg); автор: Ingo Mehling; лицензия: CC BY-SA 4.0.
+- **norway.jpg** — [Geirangerfjord from Ørnesvingen, 2013 June.jpg](https://commons.wikimedia.org/wiki/File:Geirangerfjord_from_%C3%98rnesvingen,_2013_June.jpg); автор: Ximonic (Simo Räsänen); лицензия: CC BY-SA 3.0.
+- **finland.jpg** — [Bisajärvi in evening light from the southwest in Sipoonkorpi, Vantaa, Finland, 2021 May.jpg](https://commons.wikimedia.org/wiki/File:Bisaj%C3%A4rvi_in_evening_light_from_the_southwest_in_Sipoonkorpi,_Vantaa,_Finland,_2021_May.jpg); автор: Ximonic (Simo Räsänen); лицензия: CC BY 3.0.
+- **sweden.jpg** — [Typhical landscape of Stockholm archipelago, Fjärdlång, Stockholm (Sweden) - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Typhical_landscape_of_Stockholm_archipelago,_Fj%C3%A4rdl%C3%A5ng,_Stockholm_(Sweden)_-_panoramio.jpg); автор: Tommie Hansen; лицензия: CC BY 3.0.
+- **greece.jpg** — [Santorin (GR), Ia -- 2017 -- 2698.jpg](https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Ia_--_2017_--_2698.jpg); автор: Dietmar Rabich; лицензия: CC BY-SA 4.0.
+- **serbia.jpg** — [Nacionalni Park Tara - NP04.jpg](https://commons.wikimedia.org/wiki/File:Nacionalni_Park_Tara_-_NP04.jpg); автор: Thruserbia; лицензия: CC BY-SA 4.0.
+- **bulgaria.jpg** — [Chepino Valley Landscape.jpg](https://commons.wikimedia.org/wiki/File:Chepino_Valley_Landscape.jpg); автор: Nannoyani; лицензия: CC0.
+- **montenegro.jpg** — [Kotor and Boka kotorska - view from city wall.jpg](https://commons.wikimedia.org/wiki/File:Kotor_and_Boka_kotorska_-_view_from_city_wall.jpg); автор: Pudelek (Marcin Szala); лицензия: CC BY-SA 3.0.
+- **north-macedonia.jpg** — [Vista de Ohrid, Macedonia, 2014-04-17, DD 52.JPG](https://commons.wikimedia.org/wiki/File:Vista_de_Ohrid,_Macedonia,_2014-04-17,_DD_52.JPG); автор: Diego Delso; лицензия: CC BY-SA 3.0.
+- **albania.jpg** — [2024-10-14 Valbona Valley 5.jpg](https://commons.wikimedia.org/wiki/File:2024-10-14_Valbona_Valley_5.jpg); автор: Alexkom000; лицензия: CC BY 4.0.
+- **china.jpg** — [Landscape - Great Wall of China at Jiankou.jpg](https://commons.wikimedia.org/wiki/File:Landscape_-_Great_Wall_of_China_at_Jiankou.jpg); автор: Sindarus; лицензия: CC BY-SA 4.0.
+- **south-korea.jpg** — [Panoramic view of Hyangwonjeong Pavilion in its pond at Gyeongbokgung Palace with blue sky in Seoul.jpg](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Hyangwonjeong_Pavilion_in_its_pond_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg); автор: Basile Morin; лицензия: CC BY-SA 4.0.
+- **japan.jpg** — [Mount Fuji and Fog over Lake Yamanaka.jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Fog_over_Lake_Yamanaka.jpg); автор: Alpsdake; лицензия: CC BY-SA 4.0.
+- **saudi-arabia.jpg** — [Landscape at al-Ula, Saudi Arabia (1).jpg](https://commons.wikimedia.org/wiki/File:Landscape_at_al-Ula,_Saudi_Arabia_(1).jpg); автор: Richard Mortel; лицензия: CC BY 2.0.
+- **uae.jpg** — [Dubai skyline unsplash.jpg](https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg); автор: Robert Bock; лицензия: CC0.
+- **oman.jpg** — [Wadi Shab, Oman.jpg](https://commons.wikimedia.org/wiki/File:Wadi_Shab,_Oman.jpg); автор: Uhooep; лицензия: CC BY-SA 4.0.
+- **jordan.jpg** — [Al-Khazneh (The Treasury) 2, Petra, Jordan.jpg](https://commons.wikimedia.org/wiki/File:Al-Khazneh_(The_Treasury)_2,_Petra,_Jordan.jpg); автор: Vyacheslav Argenberg; лицензия: CC BY 4.0.
+- **iraq.jpg** — [Panorama view of the Erbil Citadel, Erbil Governorate, Iraqi Kurdistan.jpg](https://commons.wikimedia.org/wiki/File:Panorama_view_of_the_Erbil_Citadel,_Erbil_Governorate,_Iraqi_Kurdistan.jpg); автор: Osama Shukir Muhammed Amin FRCP(Glasg); лицензия: CC BY-SA 4.0.
+- **thailand.jpg** — [Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13.JPG](https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG); автор: Diego Delso; лицензия: CC BY-SA 3.0.
+- **indonesia.jpg** — [Rice terraces, Ubud, Bali.jpg](https://commons.wikimedia.org/wiki/File:Rice_terraces,_Ubud,_Bali.jpg); автор: Vyacheslav Argenberg; лицензия: CC BY 4.0.
+- **malaysia.jpg** — [Cameron Bharat Tea Plantation, Cameron Highlands, Malaysia, 20250829 1432 4034.jpg](https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1432_4034.jpg); автор: Jakub Hałun; лицензия: CC BY 4.0.
+- **singapore.jpg** — [Gardens by the Bay, Marina Bay, Singapur, 2023-08-19, DD 14-16 HDR.jpg](https://commons.wikimedia.org/wiki/File:Gardens_by_the_Bay,_Marina_Bay,_Singapur,_2023-08-19,_DD_14-16_HDR.jpg); автор: Diego Delso; лицензия: CC BY-SA 4.0.
+- **vietnam.jpg** — [Hạ Long Bay Panorama, Vietnam.jpg](https://commons.wikimedia.org/wiki/File:H%E1%BA%A1_Long_Bay_Panorama,_Vietnam.jpg); автор: Mustang Joe; лицензия: CC0.
+- **philippines.jpg** — [El Nido Bay, Island lagoon, Tropical lagoon, Palawan, Philippines.jpg](https://commons.wikimedia.org/wiki/File:El_Nido_Bay,_Island_lagoon,_Tropical_lagoon,_Palawan,_Philippines.jpg); автор: Vyacheslav Argenberg; лицензия: CC BY 4.0.
