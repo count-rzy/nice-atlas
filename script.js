@@ -8,8 +8,8 @@ const REGIONS = {
     { name: 'Балканы', ids: ['GRC', 'SRB', 'BGR', 'MNE', 'MKD', 'ALB'], key: 'balkans' }
   ],
   asia: [
-    { name: 'Восточная Азия', ids: ['CHN', 'KOR', 'JPN'], key: 'east-asia' },
-    { name: 'Арабы', ids: ['SAU', 'ARE', 'OMN', 'JOR', 'IRQ'], key: 'arab-world' },
+    { name: 'Восточная Азия', ids: ['CHN', 'KOR', 'JPN', 'TWN'], key: 'east-asia' },
+    { name: 'Арабы', ids: ['SAU', 'ARE', 'OMN', 'JOR', 'IRQ', 'PSX'], key: 'arab-world' },
     { name: 'Юго-Восточная Азия', ids: ['THA', 'IDN', 'MYS', 'SGP', 'VNM', 'PHL'], key: 'southeast-asia' }
   ]
 };
@@ -41,11 +41,13 @@ const COUNTRIES = {
   CHN: { name: 'Китай', photo: 'china.jpg', flag: '🇨🇳', summary: 'Огромная страна с множеством разных пейзажей.', fact: 'Горные цепи, древние города и современные мегаполисы открывают разные стороны многовековой культуры.' },
   KOR: { name: 'Южная Корея', photo: 'south-korea.jpg', flag: '🇰🇷', summary: 'Старинные дворцы в ритме нового времени.', fact: 'В Сеуле, горных национальных парках и на острове Чеджу древние традиции соседствуют с современной жизнью.' },
   JPN: { name: 'Япония', photo: 'japan.jpg', flag: '🇯🇵', summary: 'Тишина сада и энергия большого города.', fact: 'От Фудзи и старых храмов до неоновых улиц — сезоны и традиции задают Японии особый ритм.' },
+  TWN: { name: 'Тайвань', photo: 'taiwan.jpg', summary: 'Горные озёра, чайные холмы и живые города.', fact: 'Озеро Жиюэтань, горные леса и улицы Тайбэя показывают, как близко здесь соседствуют природа и городская жизнь.' },
   SAU: { name: 'Саудовская Аравия', photo: 'saudi-arabia.jpg', summary: 'Песчаные пространства и скалы древней Аль-Улы.', fact: 'От Красного моря до пустыни Руб-эль-Хали страна соединяет исторические оазисы, горы и быстро меняющиеся города.' },
   ARE: { name: 'ОАЭ', photo: 'uae.jpg', summary: 'Городские силуэты на берегу Персидского залива.', fact: 'Дубай и Абу-Даби известны современной архитектурой, а за городами начинаются дюны, горы и мангровые заросли.' },
   OMN: { name: 'Оман', photo: 'oman.jpg', summary: 'Каньоны, оазисы и побережье Аравийского моря.', fact: 'Вади, горные дороги и старые порты делают Оман одним из самых разнообразных ландшафтов Аравийского полуострова.' },
   JOR: { name: 'Иордания', photo: 'jordan.jpg', summary: 'Розовые скалы Петры и простор пустыни.', fact: 'Петра, Вади-Рам и берега Мёртвого моря показывают разные стороны Иордании на коротком маршруте.' },
   IRQ: { name: 'Ирак', photo: 'iraq.jpg', summary: 'Древние города между Тигром и Евфратом.', fact: 'Багдад, цитадель Эрбиля и южные болотные земли напоминают о долгой истории региона и его разных природных зонах.' },
+  PSX: { name: 'Палестина', photo: 'palestine.jpg', summary: 'Каменные долины и города с многослойной историей.', fact: 'Вади-Кельт проходит через холмы Западного берега; на карте также показан сектор Газа. В UNData Восточный Иерусалим указан как столица по сведениям Государства Палестина.' },
   THA: { name: 'Таиланд', photo: 'thailand.jpg', summary: 'Острова, храмы и тропические берега.', fact: 'От шумного Бангкока до известняковых скал и северных гор пейзажи Таиланда меняются вместе с ритмом путешествия.' },
   IDN: { name: 'Индонезия', photo: 'indonesia.jpg', summary: 'Острова, вулканы и зелёные рисовые террасы.', fact: 'Огромный архипелаг объединяет разные культуры и ландшафты: от Явы и Бали до островов восточной части страны.' },
   MYS: { name: 'Малайзия', photo: 'malaysia.jpg', summary: 'Тропические леса и горные плато.', fact: 'На полуострове и острове Борнео соседствуют мегаполисы, чайные холмы, дождевые леса и морское побережье.' },
@@ -81,11 +83,13 @@ const PHOTO_SOURCE = {
   CHN: 'Landscape - Great Wall of China at Jiankou.jpg',
   KOR: 'Panoramic view of Hyangwonjeong Pavilion in its pond at Gyeongbokgung Palace with blue sky in Seoul.jpg',
   JPN: 'Mount Fuji and Fog over Lake Yamanaka.jpg',
+  TWN: 'Sun Moon Lake, Taiwan.jpg',
   SAU: 'Landscape at al-Ula, Saudi Arabia (1).jpg',
   ARE: 'Dubai skyline unsplash.jpg',
   OMN: 'Wadi Shab, Oman.jpg',
   JOR: 'Al-Khazneh (The Treasury) 2, Petra, Jordan.jpg',
   IRQ: 'Panorama view of the Erbil Citadel, Erbil Governorate, Iraqi Kurdistan.jpg',
+  PSX: "Palestine, Wadi Qelt, (Landscape with St. George's Monastery)(10).jpg",
   THA: 'Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13.JPG',
   IDN: 'Rice terraces, Ubud, Bali.jpg',
   MYS: 'Cameron Bharat Tea Plantation, Cameron Highlands, Malaysia, 20250829 1432 4034.jpg',
@@ -93,7 +97,7 @@ const PHOTO_SOURCE = {
   VNM: 'Hạ Long Bay Panorama, Vietnam.jpg',
   PHL: 'El Nido Bay, Island lagoon, Tropical lagoon, Palawan, Philippines.jpg'
 };
-const FLAG_CODE = { GEO:'ge', ARM:'am', AZE:'az', ESP:'es', PRT:'pt', AND:'ad', FRA:'fr', CHE:'ch', ITA:'it', DEU:'de', POL:'pl', UKR:'ua', MDA:'md', SVK:'sk', NOR:'no', FIN:'fi', SWE:'se', GRC:'gr', SRB:'rs', BGR:'bg', MNE:'me', MKD:'mk', ALB:'al', CHN:'cn', KOR:'kr', JPN:'jp', SAU:'sa', ARE:'ae', OMN:'om', JOR:'jo', IRQ:'iq', THA:'th', IDN:'id', MYS:'my', SGP:'sg', VNM:'vn', PHL:'ph' };
+const FLAG_CODE = { GEO:'ge', ARM:'am', AZE:'az', ESP:'es', PRT:'pt', AND:'ad', FRA:'fr', CHE:'ch', ITA:'it', DEU:'de', POL:'pl', UKR:'ua', MDA:'md', SVK:'sk', NOR:'no', FIN:'fi', SWE:'se', GRC:'gr', SRB:'rs', BGR:'bg', MNE:'me', MKD:'mk', ALB:'al', CHN:'cn', KOR:'kr', JPN:'jp', TWN:'tw', SAU:'sa', ARE:'ae', OMN:'om', JOR:'jo', IRQ:'iq', PSX:'ps', THA:'th', IDN:'id', MYS:'my', SGP:'sg', VNM:'vn', PHL:'ph' };
 
 const CONTINENT_VIEW = {
   europe: [1620, 130, 930, 550],
@@ -139,11 +143,13 @@ const CAPITALS = {
   CHN: { name: 'Пекин', point: [116.394201, 39.90172], side: 'left' },
   KOR: { name: 'Сеул', point: [126.997785, 37.568295], side: 'right' },
   JPN: { name: 'Токио', point: [139.749462, 35.686963], side: 'right' },
+  TWN: { name: 'Тайбэй', point: [121.5654, 25.0330], side: 'right' },
   SAU: { name: 'Эр-Рияд', point: [46.720487, 24.634497], side: 'left' },
   ARE: { name: 'Абу-Даби', point: [54.366593, 24.466684], side: 'left' },
   OMN: { name: 'Маскат', point: [58.378311, 23.585179], side: 'right' },
   JOR: { name: 'Амман', point: [35.931354, 31.951971], side: 'left' },
   IRQ: { name: 'Багдад', point: [44.391923, 33.340594], side: 'right' },
+  PSX: { name: 'Восточный Иерусалим', point: [35.235, 31.780], side: 'left', shift: 18 },
   THA: { name: 'Бангкок', point: [100.514699, 13.751945], side: 'left' },
   IDN: { name: 'Джакарта', point: [106.827492, -6.172472], side: 'left' },
   MYS: { name: 'Куала-Лумпур', point: [101.688699, 3.139797], side: 'right' },

@@ -36,12 +36,14 @@ Design: Vasyl Krychevsky (1873–1952); лицензия: Public domain.
 - **chn.png** — [File:National Emblem of the People's Republic of China.svg](https://commons.wikimedia.org/wiki/File:National_Emblem_of_the_People%27s_Republic_of_China.svg); автор: 澳门特别行政区立法会 / Assembleia Legislativa da Região Administrativa Especial de Macau / Legislative Assembly of the Macau Special Administrative Region; лицензия: Public domain.
 - **kor.png** — [File:Emblem of South Korea.svg](https://commons.wikimedia.org/wiki/File:Emblem_of_South_Korea.svg); автор: Government of the Republic of Korea; лицензия: Public domain.
 - **jpn.png** — [File:Imperial Seal of Japan.svg](https://commons.wikimedia.org/wiki/File:Imperial_Seal_of_Japan.svg); автор: Philip Nilsson; лицензия: Public domain.
+- **twn.png** — [File:National Emblem of the Republic of China.svg](https://commons.wikimedia.org/wiki/File:National_Emblem_of_the_Republic_of_China.svg); автор: Sekisama; лицензия: Public domain.
 - **sau.png** — [File:Emblem of Saudi Arabia.svg](https://commons.wikimedia.org/wiki/File:Emblem_of_Saudi_Arabia.svg); автор: Anus kafm; лицензия: Public domain.
 - **are.png** — [File:Emblem of the United Arab Emirates.svg](https://commons.wikimedia.org/wiki/File:Emblem_of_the_United_Arab_Emirates.svg); автор: Government of the United Arab Emirates; лицензия: Public domain.
 - **omn.png** — [File:National emblem of Oman.svg](https://commons.wikimedia.org/wiki/File:National_emblem_of_Oman.svg); автор: See File history below for details.; лицензия: OGL-om 1.0.
 - **jor.png** — [File:Coat of arms of Jordan.svg](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Jordan.svg); автор: Original Author: Vector-Images.com
 Converted from EPS to SVG by: Oren neu dag; лицензия: Public domain.
 - **irq.png** — [File:Coat of arms of Iraq.svg](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Iraq.svg); автор: Tonyjeff, Omar86, Kafka1  and  AnonMoos; AnonMoos, Militaryace; лицензия: Public domain.
+- **psx.png** — [File:Coat of arms of Palestine (official).svg](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Palestine_(official).svg); автор: Sariyr; лицензия: CC0.
 - **tha.png** — [File:Emblem of Thailand.svg](https://commons.wikimedia.org/wiki/File:Emblem_of_Thailand.svg); автор: Sodacan; лицензия: Public domain.
 - **idn.png** — [File:National emblem of Indonesia Garuda Pancasila.svg](https://commons.wikimedia.org/wiki/File:National_emblem_of_Indonesia_Garuda_Pancasila.svg); автор: Gunawan Kartapranata; лицензия: Public domain.
 - **mys.png** — [File:Coat of arms of Malaysia.svg](https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia.svg); автор: This vector image includes elements that have been taken or adapted from this file:; лицензия: Public domain.

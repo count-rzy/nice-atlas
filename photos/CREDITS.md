@@ -28,11 +28,13 @@
 - **china.jpg** — [Landscape - Great Wall of China at Jiankou.jpg](https://commons.wikimedia.org/wiki/File:Landscape_-_Great_Wall_of_China_at_Jiankou.jpg); автор: Sindarus; лицензия: CC BY-SA 4.0.
 - **south-korea.jpg** — [Panoramic view of Hyangwonjeong Pavilion in its pond at Gyeongbokgung Palace with blue sky in Seoul.jpg](https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Hyangwonjeong_Pavilion_in_its_pond_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg); автор: Basile Morin; лицензия: CC BY-SA 4.0.
 - **japan.jpg** — [Mount Fuji and Fog over Lake Yamanaka.jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Fog_over_Lake_Yamanaka.jpg); автор: Alpsdake; лицензия: CC BY-SA 4.0.
+- **taiwan.jpg** — [Sun Moon Lake, Taiwan.jpg](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake,_Taiwan.jpg); автор: Photnart; лицензия: CC BY-SA 4.0.
 - **saudi-arabia.jpg** — [Landscape at al-Ula, Saudi Arabia (1).jpg](https://commons.wikimedia.org/wiki/File:Landscape_at_al-Ula,_Saudi_Arabia_(1).jpg); автор: Richard Mortel; лицензия: CC BY 2.0.
 - **uae.jpg** — [Dubai skyline unsplash.jpg](https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg); автор: Robert Bock; лицензия: CC0.
 - **oman.jpg** — [Wadi Shab, Oman.jpg](https://commons.wikimedia.org/wiki/File:Wadi_Shab,_Oman.jpg); автор: Uhooep; лицензия: CC BY-SA 4.0.
 - **jordan.jpg** — [Al-Khazneh (The Treasury) 2, Petra, Jordan.jpg](https://commons.wikimedia.org/wiki/File:Al-Khazneh_(The_Treasury)_2,_Petra,_Jordan.jpg); автор: Vyacheslav Argenberg; лицензия: CC BY 4.0.
 - **iraq.jpg** — [Panorama view of the Erbil Citadel, Erbil Governorate, Iraqi Kurdistan.jpg](https://commons.wikimedia.org/wiki/File:Panorama_view_of_the_Erbil_Citadel,_Erbil_Governorate,_Iraqi_Kurdistan.jpg); автор: Osama Shukir Muhammed Amin FRCP(Glasg); лицензия: CC BY-SA 4.0.
+- **palestine.jpg** — [Palestine, Wadi Qelt, (Landscape with St. George's Monastery)(10).jpg](https://commons.wikimedia.org/wiki/File:Palestine,_Wadi_Qelt,_(Landscape_with_St._George%27s_Monastery)(10).jpg); автор: Britchi Mirela; лицензия: CC BY-SA 4.0.
 - **thailand.jpg** — [Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13.JPG](https://commons.wikimedia.org/wiki/File:Playa_Maya,_Ko_Phi_Phi,_Tailandia,_2013-08-19,_DD_13.JPG); автор: Diego Delso; лицензия: CC BY-SA 3.0.
 - **indonesia.jpg** — [Rice terraces, Ubud, Bali.jpg](https://commons.wikimedia.org/wiki/File:Rice_terraces,_Ubud,_Bali.jpg); автор: Vyacheslav Argenberg; лицензия: CC BY 4.0.
 - **malaysia.jpg** — [Cameron Bharat Tea Plantation, Cameron Highlands, Malaysia, 20250829 1432 4034.jpg](https://commons.wikimedia.org/wiki/File:Cameron_Bharat_Tea_Plantation,_Cameron_Highlands,_Malaysia,_20250829_1432_4034.jpg); автор: Jakub Hałun; лицензия: CC BY 4.0.

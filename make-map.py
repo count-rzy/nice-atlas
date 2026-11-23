@@ -28,6 +28,19 @@ def join_adjacent_polygons(first, second):
 
 # For this atlas, Serbia and Kosovo are shown as one outline, without an inner border.
 serbia_geometry = join_adjacent_polygons(source['SRB']['geometry'], source['KOS']['geometry'])
+# The 110m Palestine feature contains the West Bank only. Add the Gaza Strip
+# polygon from Natural Earth's 50m admin-0 countries layer to the same feature.
+gaza_ring = [
+    [34.477344, 31.584863], [34.524121, 31.54165],
+    [34.525586, 31.525635], [34.350195, 31.362744],
+    [34.34834, 31.29292], [34.245313, 31.208301],
+    [34.2125, 31.292285], [34.198145, 31.322607],
+    [34.387305, 31.483789], [34.477344, 31.584863],
+]
+palestine_geometry = {
+    'type': 'MultiPolygon',
+    'coordinates': [source['PSX']['geometry']['coordinates'], [gaza_ring]],
+}
 features = []
 for feature in data['features']:
     properties = feature['properties']
@@ -38,7 +51,8 @@ for feature in data['features']:
         'id': country_id,
         'name': properties['name'],
         'continent': properties['continent'],
-        'geometry': serbia_geometry if country_id == 'SRB' else feature['geometry'],
+        'geometry': serbia_geometry if country_id == 'SRB' else
+                    palestine_geometry if country_id == 'PSX' else feature['geometry'],
     })
 # Andorra is absent from the 110m countries layer. Add its outline from Natural
 # Earth's 50m admin-0 countries layer so it remains a real map feature.
